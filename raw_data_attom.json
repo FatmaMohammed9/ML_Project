@@ -1,0 +1,1402 @@
+{
+  "status": {
+    "version": "1.0.0",
+    "code": 0,
+    "msg": "SuccessWithResult",
+    "total": 6587,
+    "page": 1,
+    "pagesize": 10,
+    "responseDateTime": "2025-07-23T10:27:41.455Z",
+    "transactionID": "ce28f556f02b96ba88cf05613f6760ee"
+  },
+  "echoed_fields": {
+    "jobID": "",
+    "loanNumber": "",
+    "preparedBy": "",
+    "resellerID": "",
+    "preparedFor": ""
+  },
+  "property": [
+    {
+      "identifier": {
+        "Id": 30267,
+        "fips": "36061",
+        "apn": "00754-1004",
+        "attomId": 30267
+      },
+      "lot": {
+        "lotNum": "1004",
+        "zoningType": "Residential"
+      },
+      "area": {
+        "countrySecSubd": "New York",
+        "subdName": "357 WEST 30TH STREET CONDO",
+        "censusTractIdent": "10300",
+        "censusBlockGroup": "1"
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "NY",
+        "line1": "357 W 30TH ST APT 4",
+        "line2": "NEW YORK, NY 10001",
+        "locality": "NEW YORK",
+        "matchCode": "ExaStr",
+        "oneLine": "357 W 30TH ST APT 4, NEW YORK, NY 10001",
+        "postal1": "10001",
+        "postal2": "2747",
+        "postal3": "C015"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "40.750786",
+        "longitude": "-73.997399",
+        "distance": 0.0,
+        "geoid": "CO36061, CS3644919, ND0000571715, ND0000571725, PL3651000, SB0000105725, SB0000139184, SB0000142786, SB0000151673, ZI10001",
+        "geoIdV4": {
+          "CO": "760ad60f6671cbf0429ae9806042b545",
+          "CS": "3bc7a8ca32a4da6a7beb95fb4949fbf5",
+          "DB": "e35b0afc81cc59e43ff809102442a118",
+          "N1": "f9be93d2c511d894d208f7c02a07cad6",
+          "N2": "a4faa972f6740d3f5ac99821b8f6900f",
+          "PL": "219ca739bd6e73f7e89c24edb7eee9f7",
+          "SB": "0da99c90906851a2939dd57c4f024d90, 5c9d8e0696905ac087187b9a082331fc",
+          "ZI": "68ba326151c3c611de1214ea0bf07a58"
+        }
+      },
+      "summary": {
+        "absenteeInd": "ABSENTEE(MAIL AND SITUS NOT =)",
+        "propClass": "Condominium (residential)",
+        "propSubType": "Residential",
+        "propType": "CONDOMINIUM",
+        "propertyType": "CONDOMINIUM",
+        "yearBuilt": 1920,
+        "propLandUse": "CONDOMINIUM",
+        "propIndicator": 11,
+        "legal1": "LOT:1004 BLK:754 SEC:304 DIST:04"
+      },
+      "utilities": {},
+      "sale": {
+        "saleSearchDate": "2024-07-08",
+        "saleTransDate": "2024-05-24",
+        "transactionIdent": "1035337932",
+        "saleAmountData": {
+          "saleAmt": 950000.0,
+          "saleCode": "SALE PRICE (FULL) Full sales price as per documents",
+          "saleRecDate": "2024-07-08",
+          "saleDisclosureType": 0,
+          "saleDocNum": "0000171893",
+          "saleTransType": "Resale"
+        }
+      },
+      "building": {
+        "size": {
+          "bldgSize": 936.0,
+          "grossSize": 936.0,
+          "grossSizeAdjusted": 936.0,
+          "livingSize": 936.0,
+          "sizeInd": "LIVING SQFT",
+          "universalSize": 936.0
+        },
+        "rooms": {},
+        "interior": {},
+        "construction": {},
+        "parking": {},
+        "summary": {
+          "levels": 3,
+          "storyDesc": "MISCELLANEOUS",
+          "unitsCount": 1,
+          "view": "VIEW - NONE",
+          "viewCode": "000"
+        }
+      },
+      "assessment": {
+        "appraised": {},
+        "assessed": {
+          "assdImprValue": 130311.0,
+          "assdLandValue": 21143.0,
+          "assdTtlValue": 151454.0
+        },
+        "market": {
+          "mktImprValue": 582028.0,
+          "mktLandValue": 94433.0,
+          "mktTtlValue": 676461.0
+        },
+        "tax": {
+          "taxAmt": 18931.75,
+          "taxPerSizeUnit": 20.23,
+          "taxYear": 2025.0,
+          "exemption": {},
+          "exemptiontype": {}
+        },
+        "improvementPercent": 86,
+        "owner": {
+          "corporateIndicator": "N",
+          "owner1": {
+            "fullName": "MARK LI",
+            "lastName": "LI ",
+            "firstNameAndMi": "MARK "
+          },
+          "owner2": {},
+          "owner3": {},
+          "owner4": {},
+          "absenteeOwnerStatus": "A",
+          "mailingAddressOneLine": "110 WITHERS ST APT 4, BROOKLYN, NY 11211-5967"
+        },
+        "mortgage": {
+          "FirstConcurrent": {
+            "amount": 0.0
+          },
+          "SecondConcurrent": {
+            "amount": 0.0
+          }
+        }
+      },
+      "vintage": {
+        "lastModified": "2025-06-24",
+        "pubDate": "2025-06-24"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 398087,
+        "fips": "36061",
+        "apn": "00779-0045",
+        "attomId": 398087
+      },
+      "lot": {
+        "depth": 75.0,
+        "frontage": 24.8,
+        "lotNum": "45",
+        "lotSize1": 0.0426079,
+        "lotSize2": 1856.0,
+        "zoningType": "Commercial"
+      },
+      "area": {
+        "countrySecSubd": "New York",
+        "censusTractIdent": "9500",
+        "censusBlockGroup": "2"
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "NY",
+        "line1": "360 7TH AVE",
+        "line2": "NEW YORK, NY 10001",
+        "locality": "NEW YORK",
+        "matchCode": "ExaStr",
+        "oneLine": "360 7TH AVE, NEW YORK, NY 10001",
+        "postal1": "10001",
+        "postal2": "5011",
+        "postal3": "C013"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "40.748494",
+        "longitude": "-73.992803",
+        "distance": 0.0,
+        "geoid": "CO36061, CS3644919, DB3600077, ND0000571715, ND0000571725, PL3651000, SB0000105725, SB0000139184, SB0000142786, SB0000151673, ZI10001",
+        "geoIdV4": {
+          "CO": "760ad60f6671cbf0429ae9806042b545",
+          "CS": "3bc7a8ca32a4da6a7beb95fb4949fbf5",
+          "DB": "e35b0afc81cc59e43ff809102442a118",
+          "N1": "f9be93d2c511d894d208f7c02a07cad6",
+          "N2": "a4faa972f6740d3f5ac99821b8f6900f",
+          "PL": "219ca739bd6e73f7e89c24edb7eee9f7",
+          "SB": "0da99c90906851a2939dd57c4f024d90, 5c9d8e0696905ac087187b9a082331fc",
+          "ZI": "68ba326151c3c611de1214ea0bf07a58"
+        }
+      },
+      "summary": {
+        "absenteeInd": "ABSENTEE(MAIL AND SITUS NOT =)",
+        "propClass": "Apartment",
+        "propSubType": "Commercial",
+        "propType": "STORES & RESIDENTIAL",
+        "propertyType": "STORES & APARTMENTS",
+        "yearBuilt": 1908,
+        "propLandUse": "STORES & RESIDENTIAL",
+        "propIndicator": 22,
+        "legal1": "LOT:45 BLK:779 SEC:304 DIST:05"
+      },
+      "utilities": {},
+      "sale": {
+        "saleAmountData": {
+          "saleDisclosureType": 0
+        }
+      },
+      "building": {
+        "size": {
+          "bldgSize": 7424.0,
+          "grossSize": 7424.0,
+          "grossSizeAdjusted": 7424.0,
+          "livingSize": 7424.0,
+          "sizeInd": "BUILDING SQFT",
+          "universalSize": 7424.0
+        },
+        "rooms": {},
+        "interior": {},
+        "construction": {},
+        "parking": {},
+        "summary": {
+          "levels": 4,
+          "storyDesc": "COMMERCIAL",
+          "unitsCount": 6,
+          "view": "VIEW - NONE",
+          "viewCode": "000"
+        }
+      },
+      "assessment": {
+        "appraised": {},
+        "assessed": {
+          "assdImprValue": 1840400.0,
+          "assdLandValue": 363150.0,
+          "assdTtlValue": 2203550.0
+        },
+        "market": {
+          "mktImprValue": 4498000.0,
+          "mktLandValue": 807000.0,
+          "mktTtlValue": 5305000.0
+        },
+        "tax": {
+          "taxAmt": 237146.05,
+          "taxPerSizeUnit": 31.94,
+          "taxYear": 2025.0,
+          "exemption": {},
+          "exemptiontype": {}
+        },
+        "improvementPercent": 83,
+        "owner": {
+          "corporateIndicator": "Y",
+          "owner1": {
+            "fullName": "CORNER REALTY 30/7 INC",
+            "lastName": "CORNER REALTY 30/7 INC "
+          },
+          "owner2": {},
+          "owner3": {},
+          "owner4": {},
+          "absenteeOwnerStatus": "A",
+          "mailingAddressOneLine": "352 7TH AVE FL 11, NEW YORK, NY 10001-5110"
+        },
+        "mortgage": {
+          "FirstConcurrent": {},
+          "SecondConcurrent": {}
+        }
+      },
+      "vintage": {
+        "lastModified": "2025-06-24",
+        "pubDate": "2025-06-24"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 1395391,
+        "fips": "36061",
+        "apn": "00804-0017",
+        "attomId": 1395391
+      },
+      "lot": {
+        "depth": 98.8,
+        "frontage": 26.7,
+        "lotNum": "17",
+        "lotSize1": 0.0604683,
+        "lotSize2": 2634.0,
+        "zoningType": "Residential"
+      },
+      "area": {
+        "countrySecSubd": "New York",
+        "censusTractIdent": "9500",
+        "censusBlockGroup": "1"
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "NY",
+        "line1": "135 W 28TH ST",
+        "line2": "NEW YORK, NY 10001",
+        "locality": "NEW YORK",
+        "matchCode": "ExaStr",
+        "oneLine": "135 W 28TH ST, NEW YORK, NY 10001",
+        "postal1": "10001",
+        "postal2": "6118",
+        "postal3": "C041"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "40.746915",
+        "longitude": "-73.992015",
+        "distance": 0.0,
+        "geoid": "CO36061, CS3644919, DB3600077, ND0000571715, ND0000571725, PL3651000, RS0004908758, SB0000105725, SB0000139184, SB0000142786, SB0000151673, ZI10001",
+        "geoIdV4": {
+          "CO": "760ad60f6671cbf0429ae9806042b545",
+          "CS": "3bc7a8ca32a4da6a7beb95fb4949fbf5",
+          "DB": "e35b0afc81cc59e43ff809102442a118",
+          "N1": "f9be93d2c511d894d208f7c02a07cad6",
+          "N2": "a4faa972f6740d3f5ac99821b8f6900f",
+          "N4": "65a250cbbc1deea61978fa1528cc59ff",
+          "PL": "219ca739bd6e73f7e89c24edb7eee9f7",
+          "SB": "0da99c90906851a2939dd57c4f024d90, 5c9d8e0696905ac087187b9a082331fc",
+          "ZI": "68ba326151c3c611de1214ea0bf07a58"
+        }
+      },
+      "summary": {
+        "absenteeInd": "ABSENTEE(MAIL AND SITUS NOT =)",
+        "propClass": "Apartment",
+        "propSubType": "Residential",
+        "propType": "MULTI FAMILY DWELLING",
+        "propertyType": "RESIDENTIAL INCOME (GENERAL/MULTI-FAMILY)",
+        "yearBuilt": 1916,
+        "propLandUse": "MULTI FAMILY DWELLING",
+        "propIndicator": 22,
+        "legal1": "LOT:17 BLK:804 SEC:305 DIST:05"
+      },
+      "utilities": {},
+      "sale": {
+        "saleSearchDate": "2005-03-03",
+        "saleTransDate": "2004-10-29",
+        "transactionIdent": "152130258",
+        "saleAmountData": {
+          "saleAmt": 2600000.0,
+          "saleCode": "SALE PRICE (FULL) Full sales price as per documents",
+          "saleRecDate": "2005-03-03",
+          "saleDisclosureType": 0,
+          "saleDocNum": "0000127400",
+          "saleTransType": "Resale"
+        }
+      },
+      "building": {
+        "size": {
+          "bldgSize": 6765.0,
+          "grossSize": 6765.0,
+          "grossSizeAdjusted": 6765.0,
+          "livingSize": 6765.0,
+          "sizeInd": "LIVING SQFT",
+          "universalSize": 6765.0
+        },
+        "rooms": {},
+        "interior": {},
+        "construction": {},
+        "parking": {},
+        "summary": {
+          "levels": 5,
+          "storyDesc": "COMMERCIAL",
+          "unitsCount": 20,
+          "view": "VIEW - NONE",
+          "viewCode": "000"
+        }
+      },
+      "assessment": {
+        "appraised": {},
+        "assessed": {
+          "assdImprValue": 1710136.0,
+          "assdLandValue": 135900.0,
+          "assdTtlValue": 1846036.0
+        },
+        "market": {
+          "mktImprValue": 4306000.0,
+          "mktLandValue": 302000.0,
+          "mktTtlValue": 4608000.0
+        },
+        "tax": {
+          "taxAmt": 230754.5,
+          "taxPerSizeUnit": 34.11,
+          "taxYear": 2025.0,
+          "exemption": {},
+          "exemptiontype": {}
+        },
+        "improvementPercent": 92,
+        "owner": {
+          "corporateIndicator": "Y",
+          "owner1": {
+            "fullName": "D-2 PROPERTIES LLC",
+            "lastName": "D-2 PROPERTIES LLC "
+          },
+          "owner2": {},
+          "owner3": {
+            "fullName": "MAXAM PROPERTIES LLC",
+            "lastName": "MAXAM PROPERTIES LLC "
+          },
+          "owner4": {},
+          "absenteeOwnerStatus": "A",
+          "mailingAddressOneLine": "234 RUSSELL ST, BROOKLYN, NY 11222-3005"
+        },
+        "mortgage": {
+          "FirstConcurrent": {
+            "trustDeedDocumentNumber": "0000127402",
+            "amount": 559907.0,
+            "lenderLastName": "WASHINGTON MUTUAL BANK"
+          },
+          "SecondConcurrent": {}
+        }
+      },
+      "vintage": {
+        "lastModified": "2025-06-24",
+        "pubDate": "2025-06-24"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 1395418,
+        "fips": "36061",
+        "apn": "00753-0016",
+        "attomId": 1395418
+      },
+      "lot": {
+        "depth": 98.8,
+        "frontage": 22.0,
+        "lotNum": "16",
+        "lotSize1": 0.0498852,
+        "lotSize2": 2173.0,
+        "zoningType": "COMMERCIAL"
+      },
+      "area": {
+        "countrySecSubd": "New York",
+        "censusTractIdent": "9700",
+        "censusBlockGroup": "4"
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "NY",
+        "line1": "339 W 29TH ST",
+        "line2": "NEW YORK, NY 10001",
+        "locality": "NEW YORK",
+        "matchCode": "ExaStr",
+        "oneLine": "339 W 29TH ST, NEW YORK, NY 10001",
+        "postal1": "10001",
+        "postal2": "4777",
+        "postal3": "C056"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "40.749972",
+        "longitude": "-73.997350",
+        "distance": 0.0,
+        "geoid": "CO36061, CS3644919, DB3600077, ND0000571715, ND0000571725, PL3651000, SB0000105725, SB0000139184, SB0000142786, SB0000151673, ZI10001",
+        "geoIdV4": {
+          "CO": "760ad60f6671cbf0429ae9806042b545",
+          "CS": "3bc7a8ca32a4da6a7beb95fb4949fbf5",
+          "DB": "e35b0afc81cc59e43ff809102442a118",
+          "N1": "f9be93d2c511d894d208f7c02a07cad6",
+          "N2": "a4faa972f6740d3f5ac99821b8f6900f",
+          "PL": "219ca739bd6e73f7e89c24edb7eee9f7",
+          "SB": "0da99c90906851a2939dd57c4f024d90, 5c9d8e0696905ac087187b9a082331fc",
+          "ZI": "68ba326151c3c611de1214ea0bf07a58"
+        }
+      },
+      "summary": {
+        "absenteeInd": "ABSENTEE(MAIL AND SITUS NOT =)",
+        "propClass": "Hotel, Motel",
+        "propSubType": "COMMERCIAL",
+        "propType": "APARTMENT/HOTEL",
+        "propertyType": "BOARDING/ROOMING HOUSE, APT HOTEL",
+        "yearBuilt": 1900,
+        "propLandUse": "APARTMENT/HOTEL",
+        "propIndicator": 23,
+        "legal1": "LOT:16 BLK:753 SEC:303 DIST:04"
+      },
+      "utilities": {},
+      "sale": {
+        "saleSearchDate": "2024-01-10",
+        "saleTransDate": "2023-12-28",
+        "transactionIdent": "1024954935",
+        "saleAmountData": {
+          "saleRecDate": "2024-01-10",
+          "saleDisclosureType": 0,
+          "saleDocNum": "0000009052",
+          "saleTransType": "Resale"
+        }
+      },
+      "building": {
+        "size": {
+          "bldgSize": 6578.0,
+          "grossSize": 6578.0,
+          "grossSizeAdjusted": 6578.0,
+          "livingSize": 6578.0,
+          "sizeInd": "BUILDING SQFT",
+          "universalSize": 6578.0
+        },
+        "rooms": {},
+        "interior": {},
+        "construction": {},
+        "parking": {},
+        "summary": {
+          "levels": 5,
+          "storyDesc": "COMMERCIAL",
+          "unitsCount": 10,
+          "view": "VIEW - NONE",
+          "viewCode": "000"
+        }
+      },
+      "assessment": {
+        "appraised": {},
+        "assessed": {
+          "assdImprValue": 539585.0,
+          "assdLandValue": 149141.0,
+          "assdTtlValue": 688726.0
+        },
+        "market": {
+          "mktImprValue": 2699000.0,
+          "mktLandValue": 746000.0,
+          "mktTtlValue": 3445000.0
+        },
+        "tax": {
+          "taxAmt": 86090.75,
+          "taxPerSizeUnit": 13.09,
+          "taxYear": 2025.0,
+          "exemption": {},
+          "exemptiontype": {}
+        },
+        "improvementPercent": 78,
+        "owner": {
+          "corporateIndicator": "Y",
+          "owner1": {
+            "fullName": "339 W 29 AM LLC",
+            "lastName": "339 W 29 AM LLC "
+          },
+          "owner2": {},
+          "owner3": {
+            "fullName": "339 W 29 NM LLC",
+            "lastName": "339 W 29 NM LLC "
+          },
+          "owner4": {},
+          "absenteeOwnerStatus": "A",
+          "mailingAddressOneLine": "1 DAG HAMMARSKJOLD PLZ FL 3, NEW YORK, NY 10017-2251"
+        },
+        "mortgage": {
+          "FirstConcurrent": {
+            "amount": 0.0
+          },
+          "SecondConcurrent": {
+            "amount": 0.0
+          }
+        }
+      },
+      "vintage": {
+        "lastModified": "2025-06-24",
+        "pubDate": "2025-06-24"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 1528817,
+        "fips": "36061",
+        "apn": "00802-0077",
+        "attomId": 1528817
+      },
+      "lot": {
+        "depth": 68.0,
+        "frontage": 24.8,
+        "lotNum": "77",
+        "lotSize1": 0.0386364,
+        "lotSize2": 1683.0,
+        "zoningType": "Commercial"
+      },
+      "area": {
+        "countrySecSubd": "New York",
+        "censusTractIdent": "9500",
+        "censusBlockGroup": "1"
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "NY",
+        "line1": "299 7TH AVE",
+        "line2": "NEW YORK, NY 10001",
+        "locality": "NEW YORK",
+        "matchCode": "ExaStr",
+        "oneLine": "299 7TH AVE, NEW YORK, NY 10001",
+        "postal1": "10001",
+        "postal2": "6009",
+        "postal3": "C010"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "40.746411",
+        "longitude": "-73.993621",
+        "distance": 0.0,
+        "geoid": "CO36061, CS3644919, DB3600077, ND0000571715, ND0000571725, PL3651000, SB0000105725, SB0000139184, SB0000142786, SB0000151673, ZI10001",
+        "geoIdV4": {
+          "CO": "760ad60f6671cbf0429ae9806042b545",
+          "CS": "3bc7a8ca32a4da6a7beb95fb4949fbf5",
+          "DB": "e35b0afc81cc59e43ff809102442a118",
+          "N1": "f9be93d2c511d894d208f7c02a07cad6",
+          "N2": "a4faa972f6740d3f5ac99821b8f6900f",
+          "PL": "219ca739bd6e73f7e89c24edb7eee9f7",
+          "SB": "0da99c90906851a2939dd57c4f024d90, 5c9d8e0696905ac087187b9a082331fc",
+          "ZI": "68ba326151c3c611de1214ea0bf07a58"
+        }
+      },
+      "summary": {
+        "absenteeInd": "OWNER OCCUPIED",
+        "propClass": "Commercial",
+        "propSubType": "Commercial",
+        "propType": "STORES & OFFICES",
+        "propertyType": "STORE/OFFICE (MIXED USE)",
+        "yearBuilt": 1920,
+        "propLandUse": "STORES & OFFICES",
+        "propIndicator": 20,
+        "legal1": "LOT:77 BLK:802 SEC:305 DIST:05"
+      },
+      "utilities": {},
+      "sale": {
+        "saleAmountData": {
+          "saleDisclosureType": 0
+        }
+      },
+      "building": {
+        "size": {
+          "bldgSize": 3366.0,
+          "grossSize": 3366.0,
+          "grossSizeAdjusted": 3366.0,
+          "livingSize": 3366.0,
+          "sizeInd": "BUILDING SQFT",
+          "universalSize": 3366.0
+        },
+        "rooms": {},
+        "interior": {},
+        "construction": {},
+        "parking": {},
+        "summary": {
+          "levels": 2,
+          "storyDesc": "COMMERCIAL",
+          "unitsCount": 1,
+          "view": "VIEW - NONE",
+          "viewCode": "000"
+        }
+      },
+      "assessment": {
+        "appraised": {},
+        "assessed": {
+          "assdImprValue": 1131030.0,
+          "assdLandValue": 315000.0,
+          "assdTtlValue": 1446030.0
+        },
+        "market": {
+          "mktImprValue": 2202000.0,
+          "mktLandValue": 715000.0,
+          "mktTtlValue": 2917000.0
+        },
+        "tax": {
+          "taxAmt": 141267.39,
+          "taxPerSizeUnit": 41.97,
+          "taxYear": 2025.0,
+          "exemption": {},
+          "exemptiontype": {}
+        },
+        "improvementPercent": 78,
+        "owner": {
+          "corporateIndicator": "Y",
+          "owner1": {
+            "fullName": "299 SEVENTH AVE REALTY",
+            "lastName": "299 SEVENTH AVE REALTY "
+          },
+          "owner2": {},
+          "owner3": {},
+          "owner4": {},
+          "absenteeOwnerStatus": "O",
+          "mailingAddressOneLine": "299 7TH AVE, NEW YORK, NY 10001-6009"
+        },
+        "mortgage": {
+          "FirstConcurrent": {},
+          "SecondConcurrent": {}
+        }
+      },
+      "vintage": {
+        "lastModified": "2025-06-24",
+        "pubDate": "2025-06-24"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 2392117,
+        "fips": "36061",
+        "apn": "00831-0055",
+        "attomId": 2392117
+      },
+      "lot": {
+        "depth": 98.8,
+        "frontage": 25.0,
+        "lotNum": "55",
+        "lotSize1": 0.0568182,
+        "lotSize2": 2475.0,
+        "zoningType": "Commercial"
+      },
+      "area": {
+        "countrySecSubd": "New York",
+        "censusTractIdent": "7600",
+        "censusBlockGroup": "2"
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "NY",
+        "line1": "28 W 30TH ST",
+        "line2": "NEW YORK, NY 10001",
+        "locality": "NEW YORK",
+        "matchCode": "ExaStr",
+        "oneLine": "28 W 30TH ST, NEW YORK, NY 10001",
+        "postal1": "10001",
+        "postal2": "4442",
+        "postal3": "C058"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "40.746316",
+        "longitude": "-73.987913",
+        "distance": 0.0,
+        "geoid": "CO36061, CS3644919, DB3600077, ND0000128985, ND0000571725, PL3651000, SB0000105725, SB0000139184, SB0000142786, SB0000151673, ZI10001",
+        "geoIdV4": {
+          "CO": "760ad60f6671cbf0429ae9806042b545",
+          "CS": "3bc7a8ca32a4da6a7beb95fb4949fbf5",
+          "DB": "e35b0afc81cc59e43ff809102442a118",
+          "N1": "f9be93d2c511d894d208f7c02a07cad6",
+          "N2": "d9090896e5748a57261791296d353f1c",
+          "PL": "219ca739bd6e73f7e89c24edb7eee9f7",
+          "SB": "0da99c90906851a2939dd57c4f024d90, 5c9d8e0696905ac087187b9a082331fc",
+          "ZI": "68ba326151c3c611de1214ea0bf07a58"
+        }
+      },
+      "summary": {
+        "absenteeInd": "ABSENTEE(MAIL AND SITUS NOT =)",
+        "propClass": "Apartment",
+        "propSubType": "Commercial",
+        "propType": "STORES & RESIDENTIAL",
+        "propertyType": "STORES & APARTMENTS",
+        "yearBuilt": 1915,
+        "propLandUse": "STORES & RESIDENTIAL",
+        "propIndicator": 22,
+        "legal1": "LOT:55 BLK:831 SEC:306 DIST:05"
+      },
+      "utilities": {},
+      "sale": {
+        "saleSearchDate": "2004-08-26",
+        "saleTransDate": "2004-05-27",
+        "transactionIdent": "146287037",
+        "saleAmountData": {
+          "saleAmt": 2950000.0,
+          "saleCode": "SALE PRICE (FULL) Full sales price as per documents",
+          "saleRecDate": "2004-08-26",
+          "saleDisclosureType": 0,
+          "saleDocType": "DEED",
+          "saleDocNum": "0000533231",
+          "saleTransType": "Resale"
+        }
+      },
+      "building": {
+        "size": {
+          "bldgSize": 11280.0,
+          "grossSize": 11280.0,
+          "grossSizeAdjusted": 11280.0,
+          "livingSize": 11280.0,
+          "sizeInd": "BUILDING SQFT",
+          "universalSize": 11280.0
+        },
+        "rooms": {},
+        "interior": {},
+        "construction": {},
+        "parking": {},
+        "summary": {
+          "levels": 4,
+          "storyDesc": "COMMERCIAL",
+          "unitsCount": 4,
+          "view": "VIEW - NONE",
+          "viewCode": "000"
+        }
+      },
+      "assessment": {
+        "appraised": {},
+        "assessed": {
+          "assdImprValue": 1104070.0,
+          "assdLandValue": 387000.0,
+          "assdTtlValue": 1491070.0
+        },
+        "market": {
+          "mktImprValue": 2789000.0,
+          "mktLandValue": 860000.0,
+          "mktTtlValue": 3649000.0
+        },
+        "tax": {
+          "taxAmt": 160468.95,
+          "taxPerSizeUnit": 14.23,
+          "taxYear": 2025.0,
+          "exemption": {},
+          "exemptiontype": {}
+        },
+        "improvementPercent": 74,
+        "owner": {
+          "corporateIndicator": "N",
+          "owner1": {
+            "fullName": "WORLD FANTASIA",
+            "lastName": "FANTASIA ",
+            "firstNameAndMi": "WORLD "
+          },
+          "owner2": {},
+          "owner3": {},
+          "owner4": {},
+          "absenteeOwnerStatus": "A",
+          "mailingAddressOneLine": "22 W 32ND ST FL 14, NEW YORK, NY 10001-1403"
+        },
+        "mortgage": {
+          "FirstConcurrent": {
+            "trustDeedDocumentNumber": "533232",
+            "amount": 1750000.0,
+            "lenderLastName": "WACHOVIA BK"
+          },
+          "SecondConcurrent": {}
+        }
+      },
+      "vintage": {
+        "lastModified": "2025-06-24",
+        "pubDate": "2025-06-24"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 2392120,
+        "fips": "36061",
+        "apn": "00834-0021",
+        "attomId": 2392120
+      },
+      "lot": {
+        "depth": 98.8,
+        "frontage": 25.0,
+        "lotNum": "21",
+        "lotSize1": 0.0566804,
+        "lotSize2": 2469.0,
+        "zoningType": "Commercial"
+      },
+      "area": {
+        "countrySecSubd": "New York",
+        "censusTractIdent": "7600",
+        "censusBlockGroup": "1"
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "NY",
+        "line1": "37 W 32ND ST",
+        "line2": "NEW YORK, NY 10001",
+        "locality": "NEW YORK",
+        "matchCode": "ExaStr",
+        "oneLine": "37 W 32ND ST, NEW YORK, NY 10001",
+        "postal1": "10001",
+        "postal2": "3801",
+        "postal3": "C021"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "40.748112",
+        "longitude": "-73.987205",
+        "distance": 0.0,
+        "geoid": "CO36061, CS3644919, DB3600077, ND0000006500, ND0000571725, PL3651000, SB0000105725, SB0000139184, SB0000142786, SB0000151673, ZI10001",
+        "geoIdV4": {
+          "CO": "760ad60f6671cbf0429ae9806042b545",
+          "CS": "3bc7a8ca32a4da6a7beb95fb4949fbf5",
+          "DB": "e35b0afc81cc59e43ff809102442a118",
+          "N1": "f9be93d2c511d894d208f7c02a07cad6",
+          "N2": "624115f06414ff7101a233008d3ef4f7",
+          "PL": "219ca739bd6e73f7e89c24edb7eee9f7",
+          "SB": "0da99c90906851a2939dd57c4f024d90, 5c9d8e0696905ac087187b9a082331fc",
+          "ZI": "68ba326151c3c611de1214ea0bf07a58"
+        }
+      },
+      "summary": {
+        "absenteeInd": "ABSENTEE(MAIL AND SITUS NOT =)",
+        "propClass": "Apartment",
+        "propSubType": "Commercial",
+        "propType": "STORES & RESIDENTIAL",
+        "propertyType": "STORES & APARTMENTS",
+        "yearBuilt": 1915,
+        "propLandUse": "STORES & RESIDENTIAL",
+        "propIndicator": 22,
+        "legal1": "LOT:21 BLK:834 SEC:306 DIST:05"
+      },
+      "utilities": {},
+      "sale": {
+        "saleSearchDate": "2013-07-26",
+        "saleTransDate": "2013-06-07",
+        "transactionIdent": "357308466",
+        "saleAmountData": {
+          "saleAmt": 14000000.0,
+          "saleCode": "ESTIMATED Sale price is not available due to non-disclosure counties",
+          "saleRecDate": "2013-07-26",
+          "saleDisclosureType": 0,
+          "saleDocType": "DEED",
+          "saleDocNum": "0000295220",
+          "saleTransType": "Resale"
+        }
+      },
+      "building": {
+        "size": {
+          "bldgSize": 10163.0,
+          "grossSize": 10163.0,
+          "grossSizeAdjusted": 10163.0,
+          "livingSize": 10163.0,
+          "sizeInd": "BUILDING SQFT",
+          "universalSize": 10163.0
+        },
+        "rooms": {},
+        "interior": {},
+        "construction": {},
+        "parking": {},
+        "summary": {
+          "levels": 5,
+          "storyDesc": "COMMERCIAL",
+          "unitsCount": 5,
+          "view": "VIEW - NONE",
+          "viewCode": "000"
+        }
+      },
+      "assessment": {
+        "appraised": {},
+        "assessed": {
+          "assdImprValue": 1080810.0,
+          "assdLandValue": 1350000.0,
+          "assdTtlValue": 2430810.0
+        },
+        "market": {
+          "mktImprValue": 3443000.0,
+          "mktLandValue": 3000000.0,
+          "mktTtlValue": 6443000.0
+        },
+        "tax": {
+          "taxAmt": 261603.77,
+          "taxPerSizeUnit": 25.74,
+          "taxYear": 2025.0,
+          "exemption": {},
+          "exemptiontype": {}
+        },
+        "improvementPercent": 44,
+        "owner": {
+          "corporateIndicator": "Y",
+          "owner1": {
+            "fullName": "ARX AA LLC",
+            "lastName": "ARX AA LLC "
+          },
+          "owner2": {},
+          "owner3": {},
+          "owner4": {},
+          "absenteeOwnerStatus": "A",
+          "mailingAddressOneLine": "353 BROAD AVE, LEONIA, NJ 07605-1721"
+        },
+        "mortgage": {
+          "FirstConcurrent": {},
+          "SecondConcurrent": {}
+        }
+      },
+      "vintage": {
+        "lastModified": "2025-06-24",
+        "pubDate": "2025-06-24"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 4004758,
+        "fips": "36061",
+        "apn": "00774-0081",
+        "attomId": 4004758
+      },
+      "lot": {
+        "depth": 49.3,
+        "frontage": 19.0,
+        "lotNum": "81",
+        "lotSize1": 0.0215106,
+        "lotSize2": 937.0,
+        "zoningType": "Residential"
+      },
+      "area": {
+        "countrySecSubd": "New York",
+        "censusTractIdent": "9100",
+        "censusBlockGroup": "1"
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "NY",
+        "line1": "280 W 25TH ST",
+        "line2": "NEW YORK, NY 10001",
+        "locality": "NEW YORK",
+        "matchCode": "ExaStr",
+        "oneLine": "280 W 25TH ST, NEW YORK, NY 10001",
+        "postal1": "10001",
+        "postal2": "7304",
+        "postal3": "C004"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "40.746290",
+        "longitude": "-73.997263",
+        "distance": 0.0,
+        "geoid": "CO36061, CS3644919, DB3600077, ND0000571715, ND0000571725, PL3651000, SB0000105724, SB0000105755, SB0000139184, SB0000142786, ZI10001",
+        "geoIdV4": {
+          "CO": "760ad60f6671cbf0429ae9806042b545",
+          "CS": "3bc7a8ca32a4da6a7beb95fb4949fbf5",
+          "DB": "e35b0afc81cc59e43ff809102442a118",
+          "N1": "f9be93d2c511d894d208f7c02a07cad6",
+          "N2": "a4faa972f6740d3f5ac99821b8f6900f",
+          "PL": "219ca739bd6e73f7e89c24edb7eee9f7",
+          "SB": "58f953f161fe1bc7a61a6e6570068681, 5c9d8e0696905ac087187b9a082331fc, 914b9683cc42a2caa566b928411a49bd",
+          "ZI": "68ba326151c3c611de1214ea0bf07a58"
+        }
+      },
+      "summary": {
+        "absenteeInd": "ABSENTEE(MAIL AND SITUS NOT =)",
+        "propClass": "Single Family Residence / Townhouse",
+        "propSubType": "Residential",
+        "propType": "SFR",
+        "propertyType": "SINGLE FAMILY RESIDENCE",
+        "yearBuilt": 1900,
+        "propLandUse": "SFR",
+        "propIndicator": 10,
+        "legal1": "LOT:81 BLK:774 SEC:304 DIST:04"
+      },
+      "utilities": {},
+      "sale": {
+        "saleSearchDate": "2022-04-07",
+        "saleTransDate": "2022-03-31",
+        "transactionIdent": "987303662",
+        "saleAmountData": {
+          "saleAmt": 5300000.0,
+          "saleCode": "SALE PRICE (FULL) Full sales price as per documents",
+          "saleRecDate": "2022-04-07",
+          "saleDisclosureType": 0,
+          "saleDocNum": "0000147517",
+          "saleTransType": "Resale"
+        }
+      },
+      "building": {
+        "size": {
+          "bldgSize": 2607.0,
+          "grossSize": 2607.0,
+          "grossSizeAdjusted": 2607.0,
+          "livingSize": 2607.0,
+          "sizeInd": "LIVING SQFT",
+          "universalSize": 2607.0
+        },
+        "rooms": {},
+        "interior": {},
+        "construction": {},
+        "parking": {},
+        "summary": {
+          "levels": 4,
+          "storyDesc": "CONVENTIONAL HOUSE",
+          "unitsCount": 1,
+          "view": "VIEW - NONE",
+          "viewCode": "000"
+        }
+      },
+      "assessment": {
+        "appraised": {},
+        "assessed": {
+          "assdImprValue": 91492.0,
+          "assdLandValue": 115569.0,
+          "assdTtlValue": 207061.0
+        },
+        "market": {
+          "mktImprValue": 2128000.0,
+          "mktLandValue": 2688000.0,
+          "mktTtlValue": 4816000.0
+        },
+        "tax": {
+          "taxAmt": 41588.2,
+          "taxPerSizeUnit": 15.95,
+          "taxYear": 2025.0,
+          "exemption": {},
+          "exemptiontype": {}
+        },
+        "improvementPercent": 44,
+        "owner": {
+          "corporateIndicator": "N",
+          "owner1": {
+            "fullName": "ELISA FADLUN",
+            "lastName": "FADLUN ",
+            "firstNameAndMi": "ELISA "
+          },
+          "owner2": {},
+          "owner3": {},
+          "owner4": {},
+          "absenteeOwnerStatus": "A",
+          "mailingAddressOneLine": "80 COLUMBUS CIR, NEW YORK, NY 10023-5800"
+        },
+        "mortgage": {
+          "FirstConcurrent": {
+            "trustDeedDocumentNumber": "0000147518",
+            "amount": 3180000.0,
+            "lenderLastName": "WELLS FARGO BANK, N.A."
+          },
+          "SecondConcurrent": {
+            "amount": 0.0
+          }
+        }
+      },
+      "vintage": {
+        "lastModified": "2025-06-24",
+        "pubDate": "2025-06-24"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 4149343,
+        "fips": "36061",
+        "apn": "00803-0046",
+        "attomId": 4149343
+      },
+      "lot": {
+        "depth": 98.8,
+        "frontage": 20.0,
+        "lotNum": "46",
+        "lotSize1": 0.0453398,
+        "lotSize2": 1975.0,
+        "zoningType": "Commercial"
+      },
+      "area": {
+        "countrySecSubd": "New York",
+        "censusTractIdent": "9500",
+        "censusBlockGroup": "1"
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "NY",
+        "line1": "108 W 28TH ST",
+        "line2": "NEW YORK, NY 10001",
+        "locality": "NEW YORK",
+        "matchCode": "ExaStr",
+        "oneLine": "108 W 28TH ST, NEW YORK, NY 10001",
+        "postal1": "10001",
+        "postal2": "6101",
+        "postal3": "C041"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "40.746093",
+        "longitude": "-73.991221",
+        "distance": 0.0,
+        "geoid": "CO36061, CS3644919, DB3600077, ND0000571715, ND0000571725, PL3651000, SB0000105725, SB0000139184, SB0000142786, SB0000151673, ZI10001",
+        "geoIdV4": {
+          "CO": "760ad60f6671cbf0429ae9806042b545",
+          "CS": "3bc7a8ca32a4da6a7beb95fb4949fbf5",
+          "DB": "e35b0afc81cc59e43ff809102442a118",
+          "N1": "f9be93d2c511d894d208f7c02a07cad6",
+          "N2": "a4faa972f6740d3f5ac99821b8f6900f",
+          "PL": "219ca739bd6e73f7e89c24edb7eee9f7",
+          "SB": "5c9d8e0696905ac087187b9a082331fc, 0da99c90906851a2939dd57c4f024d90",
+          "ZI": "68ba326151c3c611de1214ea0bf07a58"
+        }
+      },
+      "summary": {
+        "absenteeInd": "ABSENTEE(MAIL AND SITUS NOT =)",
+        "propClass": "Apartment",
+        "propSubType": "Commercial",
+        "propType": "STORES & RESIDENTIAL",
+        "propertyType": "STORES & APARTMENTS",
+        "yearBuilt": 1910,
+        "propLandUse": "STORES & RESIDENTIAL",
+        "propIndicator": 22,
+        "legal1": "LOT:46 BLK:803 SEC:305 DIST:05"
+      },
+      "utilities": {},
+      "sale": {
+        "saleAmountData": {
+          "saleDisclosureType": 0
+        }
+      },
+      "building": {
+        "size": {
+          "bldgSize": 5860.0,
+          "grossSize": 5860.0,
+          "grossSizeAdjusted": 5860.0,
+          "livingSize": 5860.0,
+          "sizeInd": "BUILDING SQFT",
+          "universalSize": 5860.0
+        },
+        "rooms": {},
+        "interior": {},
+        "construction": {},
+        "parking": {},
+        "summary": {
+          "levels": 4,
+          "storyDesc": "COMMERCIAL",
+          "unitsCount": 4,
+          "view": "VIEW - NONE",
+          "viewCode": "000"
+        }
+      },
+      "assessment": {
+        "appraised": {},
+        "assessed": {
+          "assdImprValue": 443160.0,
+          "assdLandValue": 240750.0,
+          "assdTtlValue": 683910.0
+        },
+        "market": {
+          "mktImprValue": 1089000.0,
+          "mktLandValue": 535000.0,
+          "mktTtlValue": 1624000.0
+        },
+        "tax": {
+          "taxAmt": 73602.39,
+          "taxPerSizeUnit": 12.56,
+          "taxYear": 2025.0,
+          "exemption": {},
+          "exemptiontype": {}
+        },
+        "improvementPercent": 64,
+        "owner": {
+          "corporateIndicator": "Y",
+          "owner1": {
+            "fullName": "FPK REALTY CORP C/O",
+            "lastName": "FPK REALTY CORP C/O "
+          },
+          "owner2": {},
+          "owner3": {},
+          "owner4": {},
+          "absenteeOwnerStatus": "A",
+          "mailingAddressOneLine": "12 ALDGATE DR W, MANHASSET, NY 11030-3940"
+        },
+        "mortgage": {
+          "FirstConcurrent": {},
+          "SecondConcurrent": {}
+        }
+      },
+      "vintage": {
+        "lastModified": "2025-06-24",
+        "pubDate": "2025-06-24"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 4155506,
+        "fips": "36061",
+        "apn": "00829-0042",
+        "attomId": 4155506
+      },
+      "lot": {
+        "depth": 125.0,
+        "frontage": 28.3,
+        "lotNum": "42",
+        "lotSize1": 0.1297062,
+        "lotSize2": 5650.0,
+        "zoningType": "Commercial"
+      },
+      "area": {
+        "countrySecSubd": "New York",
+        "censusTractIdent": "5800",
+        "censusBlockGroup": "1"
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "NY",
+        "line1": "246 5TH AVE",
+        "line2": "NEW YORK, NY 10001",
+        "locality": "NEW YORK",
+        "matchCode": "ExaStr",
+        "oneLine": "246 5TH AVE, NEW YORK, NY 10001",
+        "postal1": "10001",
+        "postal2": "7603",
+        "postal3": "C051"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "40.744758",
+        "longitude": "-73.987757",
+        "distance": 0.0,
+        "geoid": "CO36061, CS3644919, DB3600077, ND0000128985, ND0000571725, PL3651000, SB0000105725, SB0000139184, SB0000142786, SB0000151673, ZI10001",
+        "geoIdV4": {
+          "CO": "760ad60f6671cbf0429ae9806042b545",
+          "CS": "3bc7a8ca32a4da6a7beb95fb4949fbf5",
+          "DB": "e35b0afc81cc59e43ff809102442a118",
+          "N1": "f9be93d2c511d894d208f7c02a07cad6",
+          "N2": "d9090896e5748a57261791296d353f1c",
+          "PL": "219ca739bd6e73f7e89c24edb7eee9f7",
+          "SB": "5c9d8e0696905ac087187b9a082331fc, 0da99c90906851a2939dd57c4f024d90",
+          "ZI": "68ba326151c3c611de1214ea0bf07a58"
+        }
+      },
+      "summary": {
+        "absenteeInd": "ABSENTEE(MAIL AND SITUS NOT =)",
+        "propClass": "Office Building",
+        "propSubType": "Commercial",
+        "propType": "OFFICE BUILDING",
+        "propertyType": "OFFICE BUILDING (MULTI-STORY)",
+        "yearBuilt": 1920,
+        "propLandUse": "OFFICE BUILDING",
+        "propIndicator": 27,
+        "legal1": "LOT:42 BLK:829 SEC:306 DIST:05"
+      },
+      "utilities": {},
+      "sale": {
+        "saleSearchDate": "2013-12-10",
+        "saleTransDate": "2013-12-04",
+        "transactionIdent": "750196726",
+        "saleAmountData": {
+          "saleAmt": 19950000.0,
+          "saleCode": "SALE PRICE (FULL) Full sales price as per documents",
+          "saleRecDate": "2013-12-10",
+          "saleDisclosureType": 0,
+          "saleDocNum": "0000507689",
+          "saleTransType": "Resale"
+        }
+      },
+      "building": {
+        "size": {
+          "bldgSize": 32049.0,
+          "grossSize": 32049.0,
+          "grossSizeAdjusted": 32049.0,
+          "livingSize": 32049.0,
+          "sizeInd": "BUILDING SQFT",
+          "universalSize": 32049.0
+        },
+        "rooms": {},
+        "interior": {},
+        "construction": {},
+        "parking": {},
+        "summary": {
+          "levels": 6,
+          "storyDesc": "COMMERCIAL",
+          "unitsCount": 47,
+          "view": "VIEW - NONE",
+          "viewCode": "000"
+        }
+      },
+      "assessment": {
+        "appraised": {},
+        "assessed": {
+          "assdImprValue": 4298940.0,
+          "assdLandValue": 1246500.0,
+          "assdTtlValue": 5545440.0
+        },
+        "market": {
+          "mktImprValue": 11357000.0,
+          "mktLandValue": 2770000.0,
+          "mktTtlValue": 14127000.0
+        },
+        "tax": {
+          "taxAmt": 596800.25,
+          "taxPerSizeUnit": 18.62,
+          "taxYear": 2025.0,
+          "exemption": {},
+          "exemptiontype": {}
+        },
+        "improvementPercent": 77,
+        "owner": {
+          "corporateIndicator": "Y",
+          "owner1": {
+            "fullName": "HH 246 FIFTH LLC",
+            "lastName": "HH 246 FIFTH LLC "
+          },
+          "owner2": {},
+          "owner3": {},
+          "owner4": {},
+          "absenteeOwnerStatus": "A",
+          "mailingAddressOneLine": "302 5TH AVE, NEW YORK, NY 10001-3604"
+        },
+        "mortgage": {
+          "FirstConcurrent": {
+            "trustDeedDocumentNumber": "0000507690",
+            "amount": 15000000.0,
+            "lenderLastName": "STARWOOD MORTGAGE CAPITAL LLC"
+          },
+          "SecondConcurrent": {
+            "amount": 0.0
+          }
+        }
+      },
+      "vintage": {
+        "lastModified": "2025-06-24",
+        "pubDate": "2025-06-24"
+      }
+    }
+  ]
+}
